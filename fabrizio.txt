@@ -1,2 +1,3 @@
+!TEST
 mio file
 seconda riga
