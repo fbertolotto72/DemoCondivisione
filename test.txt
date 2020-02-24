@@ -2,5 +2,4 @@ file di testo di prova
 seconda riga
 terza riga
 4a riga
-5a di fabrizio
-6a fabrizio
+5a riga di stefano
